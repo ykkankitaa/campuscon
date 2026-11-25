@@ -1,0 +1,6 @@
+{
+  "name": "Campus Connect",
+  "description": "Autumn collegiate event registration, student organization directory, and live campus pass management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
